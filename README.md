@@ -1,5 +1,5 @@
 # delta-demo
-Demo for Git and Github class.
+Demo for Git and Github class..
 
 
 # teacher
